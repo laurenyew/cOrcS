@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/3068/branches/cOrcs
+END
+BasicSecurityTest.orc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3068/branches/cOrcs/BasicSecurityTest.orc
+END
+AddTest.orc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3068/branches/cOrcs/AddTest.orc
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3064/branches/cOrcs/.project
+END

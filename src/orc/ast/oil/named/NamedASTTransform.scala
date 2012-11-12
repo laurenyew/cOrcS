@@ -2,7 +2,7 @@
 // Transformation.scala -- Scala traits NamedASTFunction and NamedASTTransform and object EmptyFunction
 // Project OrcScala
 //
-// $Id: NamedASTTransform.scala 2933 2011-12-15 16:26:02Z jthywissen $
+// $Id: NamedASTTransform.scala 3099 2012-07-21 02:33:18Z laurenyew $
 //
 // Created by dkitchin on Jul 12, 2010.
 //
@@ -74,7 +74,7 @@ trait NamedASTTransform extends NamedASTFunction {
     val pf = onArgument(context)
     if (pf isDefinedAt a) { a -> pf } else a
   }
-
+  //Transform from Named to Extended AST to AST type
   def transform(e: Expression, context: List[BoundVar], typecontext: List[BoundTypevar]): Expression = {
     val pf = onExpression(context, typecontext)
     if (pf isDefinedAt e) {
@@ -106,6 +106,10 @@ trait NamedASTTransform extends NamedASTFunction {
           DeclareType(u, newt, newbody)
         }
         case HasType(body, expectedType) => HasType(recurse(body), recurse(expectedType))
+        
+        //recurse on the body's type. We dont have types for Security Level
+        case DeclareSecurityLevel(name, parents, children, body) => DeclareSecurityLevel(name,parents,children, recurse(body))
+         case HasSecurityLevel(body, level) => HasSecurityLevel(recurse(body), level)
       }
     }
   }
@@ -169,5 +173,7 @@ trait NamedASTTransform extends NamedASTFunction {
       }
     }
   }
+  
+ 
 
 }

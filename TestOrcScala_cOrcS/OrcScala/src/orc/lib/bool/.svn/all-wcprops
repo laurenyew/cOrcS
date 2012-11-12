@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/bool
+END
+And.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/bool/And.java
+END
+Not.scala
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/bool/Not.scala
+END
+BoolBinopSite.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/bool/BoolBinopSite.java
+END
+Or.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/bool/Or.java
+END

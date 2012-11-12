@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/run
+END
+StandardInvocationBehavior.scala
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/run/StandardInvocationBehavior.scala
+END
+Logger.scala
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/run/Logger.scala
+END
+Orc.scala
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/run/Orc.scala
+END
+OrcDesktopEventAction.scala
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/run/OrcDesktopEventAction.scala
+END
+StandardOrcRuntime.scala
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/run/StandardOrcRuntime.scala
+END

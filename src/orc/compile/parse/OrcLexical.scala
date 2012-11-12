@@ -2,7 +2,7 @@
 // OrcLexical.scala -- Scala class OrcLexical
 // Project OrcScala
 //
-// $Id: OrcLexical.scala 2985 2012-03-17 19:33:26Z laurenyew $
+// $Id: OrcLexical.scala 3023 2012-04-20 02:55:50Z laurenyew $
 //
 // Created by jthywiss on Jun 1, 2010.
 //
@@ -67,11 +67,13 @@ class OrcLexical() extends StdLexical() with RegexParsers {
   // All these string literals are assumed to be in Unicode Normalization Form C (NFC)
   // Note: DeclSL is short for DeclareSecurityLevel. This is for when we create/edit security levels. (this can be done locally too)
   // Ex: DeclSL A (B) () -- Declares a new/edits SL A with parents B (top level is implicit), and no children (bottom level is implicit)
+  
   override val reserved = new HashSet[String] ++ List(
     "as", "def", "else", "if", "import", "include",
     "lambda", "signal", "stop", "then", "type", "val",
     "true", "false", "null", "DeclSL", "_")
 
+      
   val operators = List(
     "+", "-", "*", "/", "%", "**",
     "&&", "||", "~",

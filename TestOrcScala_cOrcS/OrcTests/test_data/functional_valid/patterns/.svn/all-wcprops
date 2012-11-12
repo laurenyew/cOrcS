@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/patterns
+END
+filter_lists.orc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/patterns/filter_lists.orc
+END
+subpat.orc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/patterns/subpat.orc
+END
+filter1.orc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/patterns/filter1.orc
+END
+filter2.orc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/patterns/filter2.orc
+END
+wildcard.orc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/patterns/wildcard.orc
+END
+filter3.orc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/patterns/filter3.orc
+END
+lists1.orc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/patterns/lists1.orc
+END
+sites.orc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/patterns/sites.orc
+END
+lists2.orc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/patterns/lists2.orc
+END

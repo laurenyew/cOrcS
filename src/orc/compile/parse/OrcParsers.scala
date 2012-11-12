@@ -2,7 +2,7 @@
 // OrcParsers.scala -- Scala objects Orc...Parser, and class OrcParsers
 // Project OrcScala
 //
-// $Id: OrcParsers.scala 2985 2012-03-17 19:33:26Z laurenyew $
+// $Id: OrcParsers.scala 3099 2012-07-21 02:33:18Z laurenyew $
 //
 // Created by dkitchin on May 10, 2010.
 //
@@ -282,8 +282,7 @@ class OrcParsers(inputContext: OrcInputContext, options: OrcCompilationOptions, 
    */
   val parseSecurityLevelExpression = 
    parseTypedExpression ~ (("@" ~> parseSecurityLevel)?) -?-> SecurityLevelExpression
-     //parseTypedExpression ~ "@" ~> parseSecurityLevel -> SecurityLevelExpression
-    
+
   val parseReturnType = "::" ~> parseType
 
   val parseGuard = "if" ~> "(" ~> parseExpression <~ ")"
@@ -340,8 +339,8 @@ class OrcParsers(inputContext: OrcInputContext, options: OrcCompilationOptions, 
     parseTypedPattern ~ (("@" ~> parseSecurityLevel)?) -?-> SecurityLevelPattern)  
     
   val parsePattern: Parser[Pattern] = parseSecurityLevelPattern
-
   
+
   //Security Level
   val parseSecurityLevel: Parser[String] = ident
   
@@ -381,14 +380,18 @@ class OrcParsers(inputContext: OrcInputContext, options: OrcCompilationOptions, 
   val parseDefCore = (
     ident ~ (ListOf(parseTypeVariable)?) ~ (TupleOf(parsePattern)) ~ (parseReturnType?) ~ (parseGuard?) ~ ("=" ~> parseExpression))
 
+  val parseDefCoreSL = (
+    ident ~ ident ~ (ListOf(parseTypeVariable)?) ~ (TupleOf(parsePattern)) ~ (parseReturnType?) ~ (parseGuard?) ~ ("=" ~> parseExpression))
+
   val parseDefDeclaration: Parser[DefDeclaration] = (
     parseDefCore -> Def
 
+    //site call
     | (Identifier("class") ~> parseDefCore) -> DefClass
-
+    
     | ident ~ (ListOf(parseTypeVariable)?) ~ (TupleOf(parseType)) ~ parseReturnType -> DefSig)
-
-  val parseDeclaration: Parser[Declaration] = (
+    
+    val parseDeclaration: Parser[Declaration] = (
     ("val" ~> parsePattern) ~ ("=" ~> parseExpression) -> Val
 
     | "def" ~> parseDefDeclaration
@@ -411,7 +414,8 @@ class OrcParsers(inputContext: OrcInputContext, options: OrcCompilationOptions, 
     //ListOf gives square braces
     //DeclSL A [B,C] []
     | "DeclSL"  ~> ident ~ (ListOf(ident)) ~ (ListOf(ident)) -> SecurityLevelDeclaration
-
+    
+    
     | failExpecting("declaration (val, def, type, etc.)"))
 
   def performInclude(includeName: String): Parser[Include] = {

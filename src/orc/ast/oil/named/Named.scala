@@ -2,7 +2,7 @@
 // Named.scala -- Named representation of OIL syntax
 // Project OrcScala
 //
-// $Id: Named.scala 2997 2012-04-02 19:12:04Z laurenyew $
+// $Id: Named.scala 3099 2012-07-21 02:33:18Z laurenyew $
 //
 // Created by dkitchin on May 28, 2010.
 //
@@ -23,6 +23,7 @@ sealed abstract class NamedAST extends AST with NamedToNameless {
   def prettyprint() = (new PrettyPrint()).reduce(this)
   override def toString() = prettyprint()
 
+  //looks for the AST that are children of this node
   override val subtrees: Iterable[NamedAST] = this match {
     case Call(target, args, typeargs) => target :: (args ::: typeargs.toList.flatten)
     case left || right => List(left, right)
@@ -30,11 +31,17 @@ sealed abstract class NamedAST extends AST with NamedToNameless {
     case Prune(left, x, right) => List(left, x, right)
     case left ow right => List(left, right)
     case DeclareDefs(defs, body) => defs ::: List(body)
+    //no AST children
+    case DeclareSecurityLevel(name, parents, children, expr) => Nil
+    case HasSecurityLevel(body, level) => Nil
+    
     case HasType(body, expectedType) => List(body, expectedType)
     case DeclareType(u, t, body) => List(u, t, body)
     case Def(f, formals, body, typeformals, argtypes, returntype) => {
       f :: (formals ::: (List(body) ::: typeformals ::: argtypes.toList.flatten ::: returntype.toList))
     }
+   
+   
     case TupleType(elements) => elements
     case FunctionType(_, argTypes, returnType) => argTypes :+ returnType
     case TypeApplication(tycon, typeactuals) => tycon :: typeactuals
@@ -76,12 +83,14 @@ case class DeclareType(name: BoundTypevar, t: Type, body: Expression) extends Ex
 //DeclSL
 case class DeclareSecurityLevel(name: String, parents: List[String], children: List[String], body: Expression) extends Expression
 
+
 case class HasType(body: Expression, expectedType: Type) extends Expression
 
 //more generalized pattern -> Expression
 //so we write a HasSecurityLevel for expression to get pattern
 //Ex: for @A
 case class HasSecurityLevel(body: Expression, level: String) extends Expression
+
 case class Hole(context: Map[String, Argument], typecontext: Map[String, Type]) extends Expression {
   def apply(e: Expression): Expression = e.subst(context, typecontext)
 }
@@ -151,6 +160,8 @@ sealed case class Def(name: BoundVar, formals: List[BoundVar], body: Expression,
     this ->> Def(name, formals, body, typeformals, argtypes, returntype)
   }
 }
+
+
 
 sealed abstract class Type
   extends NamedAST

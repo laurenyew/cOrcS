@@ -2,7 +2,7 @@
 // OrcCompiler.scala -- Scala classes CoreOrcCompiler and StandradOrcCompiler
 // Project OrcScala
 //
-// $Id: OrcCompiler.scala 2985 2012-03-17 19:33:26Z laurenyew $
+// $Id: OrcCompiler.scala 3109 2012-10-02 20:38:58Z laurenyew $
 //
 // Created by jthywiss on May 26, 2010.
 //
@@ -186,11 +186,22 @@ abstract class CoreOrcCompiler extends OrcCompiler {
   val securityLevelCheck = new CompilerPhase[CompilerOptions, orc.ast.oil.named.Expression, orc.ast.oil.named.Expression] {
     val phaseName = "securityLevelCheck"
     override def apply(co: CompilerOptions) = { ast =>
-     
-        val securityLevel:SecurityLevel = securityChecker.securityCheck(ast, new SecurityLevel)//ast is named.Expresion
-        val typeReport = "Program security level checks as " + securityLevel.toString
+       if(co.options.securityCheck){
+        //initialize the lattice
+        SecurityLevel.initializeGraph()
+        
+        val (newAst, programSL) = securityChecker(ast)//ast is named.Expresion
+        var slReport = ""
+        if(programSL != null)
+          slReport = "Program output security level checks as " + programSL.toString
+        else
+          slReport = "There are no security levels in the output"
+            
+        Console.println(slReport)    
         //compiler records messages in a list, caller supplies implemenation to display to user
-        co.logger.recordMessage(CompileLogger.Severity.INFO, 0, typeReport, ast.pos, ast)
+        /**co.logger.recordMessage(CompileLogger.Severity.INFO, 0, slReport, newAst.pos, newAst)
+        */ 
+       }
         ast//return original ast
       
     }

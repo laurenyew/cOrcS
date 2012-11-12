@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/values/sites
+END
+JavaProxies.scala
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/values/sites/JavaProxies.scala
+END
+SiteClassLoading.scala
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/values/sites/SiteClassLoading.scala
+END
+OrcSiteForm.scala
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/values/sites/OrcSiteForm.scala
+END
+Sites.scala
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/values/sites/Sites.scala
+END
+SiteResolver.scala
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/values/sites/SiteResolver.scala
+END
+JavaSiteForm.scala
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/values/sites/JavaSiteForm.scala
+END
+OrcJavaCompatibility.scala
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/values/sites/OrcJavaCompatibility.scala
+END

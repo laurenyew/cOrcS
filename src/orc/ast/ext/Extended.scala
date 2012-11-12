@@ -2,7 +2,7 @@
 // Extended.scala -- Scala class and objects for the Orc extended AST
 // Project OrcScala
 //
-// $Id: Extended.scala 2984 2012-02-28 22:55:56Z laurenyew $
+// $Id: Extended.scala 3023 2012-04-20 02:55:50Z laurenyew $
 //
 // Created by dkitchin on May 19, 2010.
 //
@@ -137,7 +137,8 @@ case class SecurityLevelPattern(p: Pattern, name: String) extends Pattern {
   val isStrict = p.isStrict
   override def toOrcSyntax = p.toOrcSyntax + " @" + name
   }
-		
+
+
 
 case class AsPattern(p: Pattern, name: String) extends Pattern {
   

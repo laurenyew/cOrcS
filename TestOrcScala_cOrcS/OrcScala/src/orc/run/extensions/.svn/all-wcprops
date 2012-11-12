@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/run/extensions
+END
+SwappableASTs.scala
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/run/extensions/SwappableASTs.scala
+END
+SupportForSynchronousExecution.scala
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/run/extensions/SupportForSynchronousExecution.scala
+END
+ErrorOnUndefinedInvocation.scala
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/run/extensions/ErrorOnUndefinedInvocation.scala
+END
+SupportForJavaObjectInvocation.scala
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/run/extensions/SupportForJavaObjectInvocation.scala
+END
+SupportForClasses.scala
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/run/extensions/SupportForClasses.scala
+END
+SupportForRwait.scala
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/run/extensions/SupportForRwait.scala
+END
+SupportForSiteInvocation.scala
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/run/extensions/SupportForSiteInvocation.scala
+END
+ThreadPoolScheduler.scala
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/run/extensions/ThreadPoolScheduler.scala
+END

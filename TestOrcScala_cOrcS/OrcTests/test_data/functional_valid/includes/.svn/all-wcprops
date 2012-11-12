@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/includes
+END
+a.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/includes/a.inc
+END
+include_file.orc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/includes/include_file.orc
+END
+include_resource.orc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/includes/include_resource.orc
+END

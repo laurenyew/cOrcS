@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3023/branches/cOrcs/OrcScala/src/orc/ast/oil/named
+END
+Freevars.scala
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/ast/oil/named/Freevars.scala
+END
+NamedToNameless.scala
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3016/branches/cOrcs/OrcScala/src/orc/ast/oil/named/NamedToNameless.scala
+END
+Named.scala
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3023/branches/cOrcs/OrcScala/src/orc/ast/oil/named/Named.scala
+END
+Substitution.scala
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/ast/oil/named/Substitution.scala
+END
+.copy.f77c2dc6-3501-0010-b4d5-91b693dc8428.tmp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2986/branches/cOrcs/OrcScala/src/orc/ast/oil/named/.copy.f77c2dc6-3501-0010-b4d5-91b693dc8428.tmp
+END
+NamedInfixCombinators.scala
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/ast/oil/named/NamedInfixCombinators.scala
+END
+NamedASTTransform.scala
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3016/branches/cOrcs/OrcScala/src/orc/ast/oil/named/NamedASTTransform.scala
+END
+Guarded.scala
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3016/branches/cOrcs/OrcScala/src/orc/ast/oil/named/Guarded.scala
+END
+PrettyPrint.scala
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/ast/oil/named/PrettyPrint.scala
+END

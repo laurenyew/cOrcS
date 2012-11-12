@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/java
+END
+java_io.orc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/java/java_io.orc
+END
+java_null.orc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/java/java_null.orc
+END
+java_static_members.orc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/java/java_static_members.orc
+END
+java_io_sample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/java/java_io_sample.txt
+END
+java_lists.orc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/java/java_lists.orc
+END
+java_call.orc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/java/java_call.orc
+END
+java_array.orc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/java/java_array.orc
+END

@@ -1,0 +1,64 @@
+10
+
+dir
+3005
+https://orc.googlecode.com/svn/branches/cOrcs/OrcScala/src/orc/lib
+https://orc.googlecode.com/svn
+
+
+
+2011-12-15T16:48:24.953488Z
+2934
+jthywissen
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+440195e8-269f-11de-a2b9-47ed1c40409f
+
+bool
+dir
+
+builtin
+dir
+
+comp
+dir
+
+includes
+dir
+
+math
+dir
+
+progswap
+dir
+
+state
+dir
+
+str
+dir
+
+time
+dir
+
+util
+dir
+
+web
+dir
+
+xml
+dir
+

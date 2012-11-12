@@ -2,7 +2,7 @@
 // NamedToNameless.scala -- Scala trait NamedToNameless
 // Project OrcScala
 //
-// $Id: NamedToNameless.scala 2933 2011-12-15 16:26:02Z jthywissen $
+// $Id: NamedToNameless.scala 3099 2012-07-21 02:33:18Z laurenyew $
 //
 // Created by dkitchin on Jul 10, 2010.
 //
@@ -56,6 +56,10 @@ trait NamedToNameless {
         nameless.DeclareType(newt, newbody)
       }
       case HasType(body, expectedType) => nameless.HasType(toExp(body), toType(expectedType))
+      //transform DeclSecurityLevel to nameless. We just make the body nameless?
+      case DeclareSecurityLevel(name,parents,children,body) => toExp(body)
+
+      case HasSecurityLevel(body, level) => toExp(body)
       case Hole(holeContext, holeTypeContext) => {
         val newHoleContext = holeContext mapValues { namedToNameless(_, context) }
         val newHoleTypeContext = holeTypeContext mapValues { namedToNameless(_, typecontext) }
@@ -134,5 +138,7 @@ trait NamedToNameless {
       }
     }
   }
+  
+ 
 
 }

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2985/branches/cOrcs/OrcScala/src/orc/script
+END
+OrcScriptEngineFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/script/OrcScriptEngineFactory.java
+END
+OrcScriptEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/script/OrcScriptEngine.java
+END
+OrcBindings.scala
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2985/branches/cOrcs/OrcScala/src/orc/script/OrcBindings.scala
+END
+SwingBasedPrompt.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/script/SwingBasedPrompt.java
+END
+Logger.scala
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/script/Logger.scala
+END
+orcPromptIcon.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/script/orcPromptIcon.png
+END
+OrcScriptException.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/script/OrcScriptException.java
+END

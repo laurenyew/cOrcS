@@ -2,7 +2,7 @@
 // PrettyPrint.scala -- Scala class PrettyPrint
 // Project OrcScala
 //
-// $Id: PrettyPrint.scala 2933 2011-12-15 16:26:02Z jthywissen $
+// $Id: PrettyPrint.scala 3070 2012-06-19 03:22:36Z laurenyew $
 //
 // Created by dkitchin on Jun 7, 2010.
 //
@@ -96,6 +96,13 @@ class PrettyPrint {
           }
         brack(typeformals) + "(" + variantSeq.mkString(" | ") + ")"
       }
+      case HasSecurityLevel(body, level) => {
+        "HasSL " + level + " body: %%" + body + "%%"
+      }
+      case DeclareSecurityLevel(name, parents, children, body) =>
+        {
+          "DeclSL " + name + " p(" + parents + ") c(" + children + ") body: %%" + body + "%%"
+        }
       case _ => "???"
     }
 

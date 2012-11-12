@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2984/branches/cOrcs/OrcScala/src/orc/types
+END
+RecordType.scala
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/types/RecordType.scala
+END
+TypeInstance.scala
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/types/TypeInstance.scala
+END
+JavaClassType.scala
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/types/JavaClassType.scala
+END
+Variance.scala
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/types/Variance.scala
+END
+PrimitiveTypes.scala
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/types/PrimitiveTypes.scala
+END
+CallableType.scala
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/types/CallableType.scala
+END
+FunctionType.scala
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/types/FunctionType.scala
+END
+OverloadedType.scala
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/types/OverloadedType.scala
+END
+Top.scala
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/types/Top.scala
+END
+TypeVariable.scala
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/types/TypeVariable.scala
+END
+RecordExtensorType.scala
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/types/RecordExtensorType.scala
+END
+Type.scala
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/types/Type.scala
+END
+JavaObjectType.scala
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/types/JavaObjectType.scala
+END
+JavaType.scala
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/types/JavaType.scala
+END
+TypeOperator.scala
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/types/TypeOperator.scala
+END
+TypeConstructor.scala
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/types/TypeConstructor.scala
+END
+TupleType.scala
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/types/TupleType.scala
+END
+Datatype.scala
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/types/Datatype.scala
+END
+Bot.scala
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/types/Bot.scala
+END

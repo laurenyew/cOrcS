@@ -2,7 +2,7 @@
 // TypeExceptions.scala -- Scala child classes of TypeException
 // Project OrcScala
 //
-// $Id: TypeExceptions.scala 2933 2011-12-15 16:26:02Z jthywissen $
+// $Id: TypeExceptions.scala 3109 2012-10-02 20:38:58Z laurenyew $
 //
 // Created by jthywiss on Aug 11, 2010.
 //
@@ -83,3 +83,5 @@ class NoSuchMemberException(t: Type, missingMember: String) extends TypeExceptio
 class MalformedDatatypeCallException() extends TypeException("Expected an instance of the datatype as a type argument")
 
 class NoMatchingConstructorException() extends TypeException("No matching constructor found for the types of these arguments")
+
+class SecurityException(val description: String, cause: Throwable) extends TypeException(description)

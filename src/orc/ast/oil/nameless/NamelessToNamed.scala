@@ -2,7 +2,7 @@
 // NamelessToNamed.scala -- Scala trait NamelessToNamed
 // Project OrcScala
 //
-// $Id: NamelessToNamed.scala 2933 2011-12-15 16:26:02Z jthywissen $
+// $Id: NamelessToNamed.scala 3099 2012-07-21 02:33:18Z laurenyew $
 //
 // Created by dkitchin on Jul 10, 2010.
 //
@@ -140,5 +140,7 @@ trait NamelessToNamed {
       }
     }
   }
+
+  
 
 }

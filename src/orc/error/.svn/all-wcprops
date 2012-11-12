@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/error
+END
+OrcException.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/error/OrcException.java
+END
+OrcExceptionExtension.scala
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/error/OrcExceptionExtension.scala
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/error/package-info.java
+END
+NotYetImplementedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/error/NotYetImplementedException.java
+END

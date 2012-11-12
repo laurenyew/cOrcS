@@ -1,0 +1,42 @@
+10
+
+dir
+3068
+https://orc.googlecode.com/svn/branches/cOrcs/OrcScala/src
+https://orc.googlecode.com/svn
+delete
+
+
+2012-06-10T22:07:46.995014Z
+3063
+laurenyew
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+440195e8-269f-11de-a2b9-47ed1c40409f
+
+META-INF
+dir
+
+
+
+delete
+
+orc
+dir
+
+
+
+delete
+

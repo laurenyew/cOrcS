@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/util
+END
+Error.scala
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/util/Error.scala
+END
+UUID.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/util/UUID.java
+END
+IterableToStream.scala
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/util/IterableToStream.scala
+END
+URandom.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/util/URandom.java
+END
+Prompt.scala
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/util/Prompt.scala
+END
+ReadText.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/util/ReadText.java
+END
+Random.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/util/Random.java
+END

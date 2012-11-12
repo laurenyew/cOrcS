@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/progswap
+END
+EditScriptCRGMW96.scala
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/progswap/EditScriptCRGMW96.scala
+END
+AstEditOperation.scala
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/progswap/AstEditOperation.scala
+END
+InsertNode.scala
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/progswap/InsertNode.scala
+END
+LCSMyers86.scala
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/progswap/LCSMyers86.scala
+END
+ProgSwap.scala
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/progswap/ProgSwap.scala
+END
+DeleteNode.scala
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/progswap/DeleteNode.scala
+END
+MoveNode.scala
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/progswap/MoveNode.scala
+END
+ReplaceNode.scala
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/progswap/ReplaceNode.scala
+END
+FastMatchCRGMW96.scala
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/progswap/FastMatchCRGMW96.scala
+END
+AstEditScript.scala
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/progswap/AstEditScript.scala
+END

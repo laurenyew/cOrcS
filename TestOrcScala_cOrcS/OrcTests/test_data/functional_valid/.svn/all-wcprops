@@ -1,0 +1,563 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid
+END
+Cor19.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor19.orc
+END
+Cor4.orc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor4.orc
+END
+Cor5.orc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor5.orc
+END
+longrun.orc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/longrun.orc
+END
+Cor6.orc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor6.orc
+END
+Cor7.orc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor7.orc
+END
+Cor8.orc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor8.orc
+END
+ref.orc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/ref.orc
+END
+Cor9.orc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor9.orc
+END
+Orc30.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc30.orc
+END
+Orc31.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc31.orc
+END
+bounded_buffer.orc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/bounded_buffer.orc
+END
+Cor20.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor20.orc
+END
+Cor21.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor21.orc
+END
+Cor22.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor22.orc
+END
+Cor23.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor23.orc
+END
+Cor24.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor24.orc
+END
+Cor25.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor25.orc
+END
+Cor26.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor26.orc
+END
+Cor27.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor27.orc
+END
+ident_norm.orc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/ident_norm.orc
+END
+Cor28.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor28.orc
+END
+Cor29.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor29.orc
+END
+sort_out.orc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/sort_out.orc
+END
+dict.orc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/dict.orc
+END
+buffer.orc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/buffer.orc
+END
+Other1.orc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Other1.orc
+END
+Other2.orc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Other2.orc
+END
+Cor30.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor30.orc
+END
+Other3.orc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Other3.orc
+END
+semaphore.orc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/semaphore.orc
+END
+Cor31.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor31.orc
+END
+Cor32.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor32.orc
+END
+Cor33.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor33.orc
+END
+detector.orc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/detector.orc
+END
+Cor34.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor34.orc
+END
+lambda.orc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/lambda.orc
+END
+Cor35.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor35.orc
+END
+Cor36.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor36.orc
+END
+Cor37.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor37.orc
+END
+Cor38.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor38.orc
+END
+Cor39.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor39.orc
+END
+sequence_gen.orc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/sequence_gen.orc
+END
+curried.orc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/curried.orc
+END
+Orc10.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc10.orc
+END
+Orc11.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc11.orc
+END
+Orc12.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc12.orc
+END
+sitesite0.orc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/sitesite0.orc
+END
+Orc13.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc13.orc
+END
+Cor40.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor40.orc
+END
+sitesite1.orc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/sitesite1.orc
+END
+Orc14.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc14.orc
+END
+sitesite2.orc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/sitesite2.orc
+END
+Orc15.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc15.orc
+END
+sitesite3.orc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/sitesite3.orc
+END
+Orc16.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc16.orc
+END
+Orc17.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc17.orc
+END
+Orc18.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc18.orc
+END
+json.orc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/json.orc
+END
+Orc19.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc19.orc
+END
+semaphore2.orc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/semaphore2.orc
+END
+Orc1.orc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc1.orc
+END
+Orc2.orc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc2.orc
+END
+Orc3.orc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc3.orc
+END
+ifthenelse.orc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/ifthenelse.orc
+END
+Orc4.orc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc4.orc
+END
+Orc5.orc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc5.orc
+END
+Orc6.orc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc6.orc
+END
+Orc7.orc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc7.orc
+END
+badarity.orc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/badarity.orc
+END
+Orc8.orc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc8.orc
+END
+Orc9.orc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc9.orc
+END
+Orc20.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc20.orc
+END
+Orc21.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc21.orc
+END
+Orc22.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc22.orc
+END
+Orc23.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc23.orc
+END
+channel.orc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/channel.orc
+END
+termination.orc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/termination.orc
+END
+strcat.orc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/strcat.orc
+END
+Cor10.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor10.orc
+END
+Orc28.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc28.orc
+END
+Cor11.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor11.orc
+END
+Orc29.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Orc29.orc
+END
+Cor12.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor12.orc
+END
+Cor13.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor13.orc
+END
+Cor14.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor14.orc
+END
+Cor15.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor15.orc
+END
+Cor1.orc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor1.orc
+END
+Cor16.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor16.orc
+END
+Cor2.orc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor2.orc
+END
+Cor17.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor17.orc
+END
+Cor3.orc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor3.orc
+END
+Cor18.orc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/Cor18.orc
+END

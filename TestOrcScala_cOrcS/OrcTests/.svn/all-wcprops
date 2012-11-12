@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/LICENSE.txt
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/.project
+END
+licenses.yml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/licenses.yml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/.classpath
+END

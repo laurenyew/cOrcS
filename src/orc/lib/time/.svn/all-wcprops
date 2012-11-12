@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/time
+END
+Vclock.scala
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/time/Vclock.scala
+END
+Rclock.scala
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/time/Rclock.scala
+END
+Vawait.scala
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/time/Vawait.scala
+END
+Vtime.scala
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/time/Vtime.scala
+END
+IntegerTimeOrder.scala
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/time/IntegerTimeOrder.scala
+END

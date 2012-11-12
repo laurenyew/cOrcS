@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2984/branches/cOrcs/OrcScala/src/orc/compile/translate
+END
+PrimitiveForms.scala
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/compile/translate/PrimitiveForms.scala
+END
+Translator.scala
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3099/branches/cOrcs/OrcScala/src/orc/compile/translate/Translator.scala
+END
+Clause.scala
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/compile/translate/Clause.scala
+END
+AggregateDef.scala
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3099/branches/cOrcs/OrcScala/src/orc/compile/translate/AggregateDef.scala
+END
+ClassForms.scala
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/compile/translate/ClassForms.scala
+END

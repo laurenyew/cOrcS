@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/includes/prelude
+END
+state.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/includes/prelude/state.inc
+END
+util.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/includes/prelude/util.inc
+END
+web.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/includes/prelude/web.inc
+END
+xml.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/includes/prelude/xml.inc
+END
+idioms.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/includes/prelude/idioms.inc
+END
+time.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/includes/prelude/time.inc
+END
+reflect.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/includes/prelude/reflect.inc
+END
+text.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/includes/prelude/text.inc
+END
+list.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/includes/prelude/list.inc
+END
+core.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2943/branches/cOrcs/OrcScala/src/orc/lib/includes/prelude/core.inc
+END

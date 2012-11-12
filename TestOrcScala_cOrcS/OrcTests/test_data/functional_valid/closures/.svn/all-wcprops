@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/closures
+END
+lenient-def.orc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/closures/lenient-def.orc
+END
+strict-valuation-easy.orc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/closures/strict-valuation-easy.orc
+END
+lenient-call.orc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/closures/lenient-call.orc
+END
+strict-valuation-hard.orc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/closures/strict-valuation-hard.orc
+END
+lenient-recursion.orc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/closures/lenient-recursion.orc
+END
+lenient-mutual-rec.orc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3006/branches/cOrcs/OrcTests/test_data/functional_valid/closures/lenient-mutual-rec.orc
+END

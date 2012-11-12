@@ -2,7 +2,7 @@
 // Guarded.scala -- Scala trait Guarding
 // Project OrcScala
 //
-// $Id: Guarded.scala 2933 2011-12-15 16:26:02Z jthywissen $
+// $Id: Guarded.scala 3099 2012-07-21 02:33:18Z laurenyew $
 //
 // Created by dkitchin on Aug 4, 2010.
 //
@@ -69,6 +69,10 @@ trait Guarding {
       }
       case DeclareType(_, _, body) => check(body)
       case HasType(body, _) => check(body)
+      //security level check(body). This is doing a recursive check on the body
+      case DeclareSecurityLevel(name,parents,children,body) => check(body)
+
+      case HasSecurityLevel(body,level) => check(body)
     }
   }
 
