@@ -2,7 +2,11 @@
 
 **Undergraduate Honors Thesis** (2013): Programming Language Security with Orc and Scala
 Turing Scholars Honors Program (Computer Science) at the University of Texas at Austin
-*	Supervising professors: William D. Young, Ph.D., William R. Cook, Ph.D.
+
+*	Supervising professors: 
+*	William D. Young, Ph.D. (https://www.linkedin.com/in/william-cook-87219b)
+*	William R. Cook, Ph.D. (https://www.linkedin.com/in/bill-young-050aa319)	
+
 *	Sample code: https://github.com/laurenyew/cOrcS.git
 *	Thesis paper: http://apps.cs.utexas.edu/tech_reports/reports/tr/TR-2113.pdf
 
