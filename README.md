@@ -1,7 +1,12 @@
-cOrcS
-=====
+**cOrcs (Continuation of Orc Security)** (2011-2012). Designed Scala language compiler and interpreter rules with new Orc grammar options for an optional security extension feature.  Scala, Orc
 
-**THESIS PROJECT**: cOrcS (Continuation of Orc Security) -- Static Checking Integrity with Orc Programming Language 
+**Undergraduate Honors Thesis** (2013): Programming Language Security with Orc and Scala
+Turing Scholars Honors Program (Computer Science) at the University of Texas at Austin
+*	Supervising professors: William D. Young, Ph.D., William R. Cook, Ph.D.
+*	Sample code: https://github.com/laurenyew/cOrcS.git
+*	Thesis paper: http://apps.cs.utexas.edu/tech_reports/reports/tr/TR-2113.pdf
+
+**THESIS PROJECT**: Static Checking Integrity with Orc Programming Language 
 (Orc is a concurrent, nondeterministic computer programming language created by Jayadev Misra at the University of Texas at Austin.
 
 **CREATED FILES:**
