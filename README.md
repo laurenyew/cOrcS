@@ -6,6 +6,8 @@ Turing Scholars Honors Program (Computer Science) at the University of Texas at 
 *	Sample code: https://github.com/laurenyew/cOrcS.git
 *	Thesis paper: http://apps.cs.utexas.edu/tech_reports/reports/tr/TR-2113.pdf
 
+===
+
 **THESIS PROJECT**: Static Checking Integrity with Orc Programming Language 
 (Orc is a concurrent, nondeterministic computer programming language created by Jayadev Misra at the University of Texas at Austin.
 
