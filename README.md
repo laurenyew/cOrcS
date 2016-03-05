@@ -4,8 +4,8 @@
 Turing Scholars Honors Program (Computer Science) at the University of Texas at Austin
 
 Supervising professors: 
-*	William D. Young, Ph.D. (https://www.linkedin.com/in/william-cook-87219b)
-*	William R. Cook, Ph.D. (https://www.linkedin.com/in/bill-young-050aa319)	
+*	William D. Young, Ph.D. (https://www.linkedin.com/in/bill-young-050aa319)	
+*	William R. Cook, Ph.D. (https://www.linkedin.com/in/william-cook-87219b)
 
 Thesis paper: http://apps.cs.utexas.edu/tech_reports/reports/tr/TR-2113.pdf
 
